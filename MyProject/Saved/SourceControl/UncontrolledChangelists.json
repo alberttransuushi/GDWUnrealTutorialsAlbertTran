@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/UnrealProject/GDWUnrealTutorialsAlbertTran/MyProject/Content/Blueprint/Framework/BP_GameMode.uasset",
+				"E:/UnrealProject/GDWUnrealTutorialsAlbertTran/MyProject/Content/Blueprint/BP_FPCharacter.uasset",
 				"E:/UnrealProject/MyProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
